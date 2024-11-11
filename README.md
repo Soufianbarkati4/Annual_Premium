@@ -1,7 +1,5 @@
-# Annual_Premium
+# Actuarial Analysis and Predictive Modeling
 ActuarIA SOFTWARE Life insurance functionality
-
-## Actuarial Analysis and Predictive Modeling
 
 *Project Overview :* 
 This project aims to provide an in-depth analysis and application of actuarial formulas, integrating machine learning techniques to enhance predictive accuracy and decision-making. This notebook includes theoretical explorations, data processing, and model implementation to provide actionable insights. Designed for data scientists and actuarial professionals, the project bridges traditional actuarial concepts with modern machine learning tools.
